@@ -18,13 +18,13 @@ base_info:
   author: 华尔街之鼠
 
   # Author avatar, You can use local image path or image link
-  avatar: /images/icon_cunicle.png
+  avatar: /images/icon2.png
 
   # Website LOGO, You can use local image path or image link
-  logo: /images/icon_cunicle.png
+  logo: /images/icon2.png
 
   # Website favicon, You can use local image path or image link
-  favicon: /images/icon_cunicle.png
+  favicon: /images/icon2.png
 
 
 # ---------------------------------------------------------------------------------------
