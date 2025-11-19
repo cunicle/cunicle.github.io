@@ -104,3 +104,5 @@ deploy:
   type: git
   repo: https://github.com/cunicle/cunicle.github.io.git
   branch: main
+  name: cunicle
+  email: cunicle@users.noreply.github.com
